@@ -9,3 +9,4 @@ title: "About me"
 - teacher’s name : Ingrid VAN LANCKER
 - Group 1
 - 2019-2020
+- portfolio's subject: DNA
