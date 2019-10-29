@@ -14,6 +14,6 @@ navbar:
 base_url: https://APouleur.github.io/aurore-pouleur-blog/
 collections:
     posts:
-    discus: aurore-pouleur-blog
+    disqus: aurore-pouleur-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
