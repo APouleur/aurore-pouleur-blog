@@ -1,0 +1,42 @@
+---
+title: "Genetic history of endangered Australian songbird could inspire an encore"
+author:
+  - name: Aurore Pouleur
+date: 10-30-2019
+categories:
+  - DNA
+  
+  - track
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source of the article
+<https://phys.org/news/2019-10-genetic-history-endangered-australian-songbird.html>
+Word count:557
+
+## Vocabulary
+|  Word   from the text |   Synonym/definition in English                |  French translation  |
+| --------------------- | ---------------------------------------------- | -------------------- |
+| endangered            | close to extinction                            | en voie d'extinction |
+| sample                | representative piece                           | échantillon          |
+| severe                | intense                                        | grave                |
+|  widespread           | affecting many people                          | généralisé           |
+| breeding              | raising animals                                | élevage              |
+| blossom               | flower                                         | fleur                |
+| breed                 | procreate                                      | se reproduire        |
+
+## Analysis table
+|                              |                                     |
+| ---------------------------- | ----------------------------------- |
+| Researchers?                 |             Ross Crates, (Dr. Olah) |
+| General topic                |                                     |
+| Procedure/ what was examined |                                     |
+| Conclusions/   discovery     |                                     |
+| Remaining   questions        |                                     |
