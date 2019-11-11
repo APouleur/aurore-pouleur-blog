@@ -1,13 +1,11 @@
 ---
 title: "Genetic history of endangered Australian songbird could inspire an encore"
+description: |
+
 author:
   - name: Aurore Pouleur
-date: 10-30-2019
-categories:
-  - DNA
-  
-  - track
-preview: 
+    url: {}
+date: 11-11-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -17,8 +15,11 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
+
 ## Source of the article
 <https://phys.org/news/2019-10-genetic-history-endangered-australian-songbird.html>
+
 Word count:557
 
 ## Vocabulary
@@ -35,8 +36,9 @@ Word count:557
 ## Analysis table
 |                              |                                     |
 | ---------------------------- | ----------------------------------- |
-| Researchers?                 |             Ross Crates, (Dr. Olah) |
-| General topic                |                                     |
-| Procedure/ what was examined |                                     |
-| Conclusions/   discovery     |                                     |
-| Remaining   questions        |                                     |
+| Researchers?                 |Ross Crates, George Olah             |
+| General topic                |Genetic history of endangered Australian songbird                                    |
+| Procedure/ what was examined |blood and DNA samples from museums around the world, extract DNA from tiny fragments of tissue                                     |
+| Conclusions/   discovery     |small numbers of birds are travelling long distances to breed with each other, our best chance of saving regent honeyeaters: protecting remaining breeding habitat                                     |
+| Remaining   questions        |/                                     |
+

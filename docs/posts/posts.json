@@ -1,5 +1,38 @@
 [
   {
+    "path": "posts/2019-11-11-article-2/",
+    "title": "Genetic history of endangered Australian songbird could inspire an encore",
+    "description": {},
+    "author": [
+      {
+        "name": "Aurore Pouleur",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-11",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-11T18:15:06+01:00"
+  },
+  {
+    "path": "posts/",
+    "title": "Genetic history of endangered Australian songbird could inspire an encore",
+    "description": {},
+    "author": [
+      {
+        "name": "Aurore Pouleur",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-30",
+    "categories": [
+      "DNA",
+      "track"
+    ],
+    "preview": {},
+    "last_modified": "2019-11-01T11:24:13+01:00"
+  },
+  {
     "path": "posts/2019-09-18-article-1/",
     "title": "Scientists uncover mystery of DNA methylation",
     "description": {},
@@ -15,6 +48,6 @@
       "track"
     ],
     "preview": {},
-    "last_modified": "2019-10-24T10:39:04+02:00"
+    "last_modified": "2019-11-01T12:46:05+01:00"
   }
 ]
