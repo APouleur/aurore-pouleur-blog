@@ -13,6 +13,6 @@ navbar:
       href: https://github.com/APouleur/aurore-pouleur-blog  
 base_url: https://APouleur.github.io/aurore-pouleur-blog/
 collections:
-    #posts:
+    posts:
     disqus: aurore-pouleur-blog
 output: distill::distill_article
