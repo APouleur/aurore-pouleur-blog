@@ -10,10 +10,10 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fab fa-github
-      href: https://github.com/APouleur/aurore-pouleur-blog  
+      href: https://github.com/APouleur/aurore-pouleur-blog
 base_url: https://apouleur.github.io/aurore-pouleur-blog/
 collections:
     posts:
-    disqus: aurore-pouleur-blog
-    share: [twitter, linkedin, facebook]
+      disqus: aurore-pouleur-blog
+      share: [twitter, linkedin, facebook]
 output: distill::distill_article
