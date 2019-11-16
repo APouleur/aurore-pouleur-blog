@@ -1,0 +1,25 @@
+---
+title: "My English activity"
+description: 
+  
+author:
+  - name: Aurore Pouleur
+    url: {}
+date: 09-10-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# TV Series
+
+Game of thrones, Vikings, Breaking bad
+
+# Films
+
+Joker, The Hobbit, The Lord of the Rings
+
+

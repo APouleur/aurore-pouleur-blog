@@ -1,5 +1,5 @@
 ---
-title: "Genetic history of endangered Australian songbird could inspire an encore"
+title: "Article 2: Genetic history of endangered Australian songbird could inspire an encore"
 description: |
 
 author:
@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ## Source of the article
-<https://phys.org/news/2019-10-genetic-history-endangered-australian-songbird.html>
+ Australian National University (2019, OCTOBER 30). Genetic history of endangered Australian songbird could inspire an encore. Phys.org. Retrieved September 2, 2019 from <https://phys.org/news/2019-10-genetic-history-endangered-australian-songbird.html>
 
 Word count:557
 

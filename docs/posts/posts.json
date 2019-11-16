@@ -1,7 +1,22 @@
 [
   {
+    "path": "posts/2019-11-16-article-3/",
+    "title": "Article 3: CRISPR enters its first human trials",
+    "description": {},
+    "author": [
+      {
+        "name": "Aurore Pouleur",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-16",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-16T19:54:32+01:00"
+  },
+  {
     "path": "posts/2019-11-11-article-2/",
-    "title": "Genetic history of endangered Australian songbird could inspire an encore",
+    "title": "Article 2: Genetic history of endangered Australian songbird could inspire an encore",
     "description": {},
     "author": [
       {
@@ -12,11 +27,11 @@
     "date": "2019-11-11",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-11T18:15:06+01:00"
+    "last_modified": "2019-11-16T20:02:40+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Scientists uncover mystery of DNA methylation",
+    "title": "Article 1: Scientists uncover mystery of DNA methylation",
     "description": {},
     "author": [
       {
@@ -30,6 +45,21 @@
       "track"
     ],
     "preview": {},
-    "last_modified": "2019-11-01T12:46:05+01:00"
+    "last_modified": "2019-11-16T19:55:36+01:00"
+  },
+  {
+    "path": "posts/2019-11-16-my-english-activity/",
+    "title": "My English activity",
+    "description": {},
+    "author": [
+      {
+        "name": "Aurore Pouleur",
+        "url": {}
+      }
+    ],
+    "date": "2019-09-10",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-16T19:56:11+01:00"
   }
 ]

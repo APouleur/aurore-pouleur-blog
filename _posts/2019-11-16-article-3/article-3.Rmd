@@ -1,0 +1,80 @@
+---
+title: "Article 3: CRISPR enters its first human trials"
+description: 
+author:
+  - name: Aurore Pouleur
+    url: {}
+date: 11-16-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Source of the article
+HESMAN SAEY Tina. (2019, September 16). CRISPR enters its first human trials.The gene-editing technology will target cancer, blood disorders and blindness. Science News for Students. Retrieved November 16, 2019 from <https://www.sciencenewsforstudents.org/article/crispr-enters-its-first-human-trials> 
+
+
+Word count: 814
+
+## Vocabulary 
+
+| Word   from the text | Synonym/definition in English                 | French translation |
+| -------------------- | --------------------------------------------- | ------------------ |
+| blindness            | lack of sight                                 | aveuglement        |
+| scissors             | Two-bladed cutting tool                       | ciseaux            |
+| heal                 | get better                                    | soigner/ cicatriser|
+| underway             | in progress                                   | en cours           |
+| randomly             | in random manner                              | au hasard          |
+| chop                 | cut into pieces                               | couper             |
+| trial                | experimental attempt                          | essai              |
+| disorder             | trouble                                       | maladie            |
+| upcoming             | imminent                                      | prochain           |
+| inherited            | in genes                                      | héréditaire        |
+| pioneering           | innovative                                    | innovant           |
+| recurring            | occurring again                               | récurrent          |
+| myeloma              | a malignant tumour of the bone marrow         | myélome            |
+| sarcoma              | malignant tumour                              | sarcome            |
+| immune               | resistant to disease                          | immunisé           |
+| sickle-cell          | group of disorders that affects hemoglobin    |drépanocytose       |
+| defects              | imperfection                                  | défaut             |
+| inherit              | in genes                                      | hériter de         |
+| avoid                | stay away from                                | éviter             |
+| womb                 | uterus                                        | utérus             |
+| fetus                | unborn baby                                   | foetus             |
+| grab                 | take hold of                                  | saisir             |
+| harmless             | does no harm                                  | inoffensif         |
+| throughout           |                                               |                    |
+| whether              | if                                            | si                 |
+| dishes               |                                               |                    |
+| rod                  | stick of metal/ wood                          | tige               |
+| snip out             | cut                                           | découper           |
+| troublesome          | problematic                                   | problématique      |
+| arguably             | defended                                      | probablement       |
+| shelved              |                                               |                    |
+| hype                 | promote                                       | promouvoir         |
+|                      |                                               |                    |
+
+## Analysis table 
+
+|                                    |                                                                                                                                                                                                                                                                                         |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers?                       | David Altshuler, Laurie Zoloth, C.A. Hodges and R. A. Conlon, M.L. Maeder                                               |
+| Published in? when (if mentioned)? | September 16, 2019                                                                                                      |
+| General topic                      |  First human tests to treat genetic disease with the CRISPR/Cas9                                                        |
+| Procedure/ what was examined       | Injecting CRISPR/Cas9 to replace the genes at the source of the disease                                                 |
+| Conclusions/   discovery           | CRISPR/Cas9 is a new technelogy really promising to treat genetic deseases                                              |
+| Remaining   questions              | /                                                                                                                       |
+
+
+
+
+
+
+
+
+
