@@ -48,16 +48,14 @@ Word count: 814
 | fetus                | unborn baby                                   | foetus             |
 | grab                 | take hold of                                  | saisir             |
 | harmless             | does no harm                                  | inoffensif         |
-| throughout           |                                               |                    |
 | whether              | if                                            | si                 |
-| dishes               |                                               |                    |
 | rod                  | stick of metal/ wood                          | tige               |
 | snip out             | cut                                           | découper           |
 | troublesome          | problematic                                   | problématique      |
 | arguably             | defended                                      | probablement       |
-| shelved              |                                               |                    |
+| shelve               | abandon                                       | abandonner         |
 | hype                 | promote                                       | promouvoir         |
-|                      |                                               |                    |
+
 
 ## Analysis table 
 
