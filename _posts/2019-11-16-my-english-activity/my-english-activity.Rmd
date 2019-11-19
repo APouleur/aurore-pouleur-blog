@@ -14,12 +14,59 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-# TV Series
+# Recommendations
 
-Game of thrones, Vikings, Breaking bad
+## TV Series
 
-# Films
+* Game of thrones
+* Vikings
+* Breaking bad
 
-Joker, The Hobbit, The Lord of the Rings
+## Films
+
+* Joker
+* The Hobbit
+* The Lord of the Rings
+* Harry Potter
+
+# My English activity
+## Week 4:
+* I watched a film 
+* I listened to English music 
+* I checked the news 
+
+## Week 5:
+* I watched some episodes of "Vikings"
+* I checked the news
+* I read some articles for my portfolio
+
+## Week 6:
+* I watched some episodes of "Breaking Bad"
+* I checked the news
+* I went to the cinema with my brother to watched "Joker"
+
+## Week 6:
+* I watched some episodes of "Breacking Bad"
+* I watched a film  :"Passenger"
+* I read some articles for my portfolio
+* I checked the news
+
+## Week 7:
+* I watched the Hobbit 1 "An unpexted journey" with my family
+* I listened to English music
+* I read articles in English
+* I checked the news
+
+## Week 8:
+* I watched the Hobbit 2 "The Desolation of Smaug"
+* I watched for the second time some episodes of Game of thrones
+* I watched youtube’s videos
+* I read articles for my portfolio
+
+
+## Week 9:
+* I watched the Hobbit 3 "The Battle of the Five Armies"
+* I watched some episodes of "Breaking Bad" 
+* I checked the news
 
 
