@@ -22,15 +22,15 @@ Word count: 647
 
 | Word   from the text | Synonym/definition in English                 | French translation |
 | -------------------- | --------------------------------------------- | ------------------ |
-|                      |                                               |                    |
-|                      |                                               |                    |
-|                      |                                               |                    |
-|                      |                                               |                    |
-|                      |                                               |                    |
-|                      |                                               |                    |
-|                      |                                               |                    |
-|                      |                                               |                    |
-|                      |                                               |                    |
+| elusive              | avoiding capture                              | insaisissable      |
+| inexpensively        | at a low cost                                 | à moindre cout     |
+| exceedingly          | extremly                                      | extremement        |
+| enable               | make able                                     | permettre          |
+| potent               | powerful                                      | puissant           |
+| although             | even tough                                    |bien que            |
+| decade               | 10 year                                       | décennie           |
+| components           | constituent                                   | composant          |
+| nutrient             | nutritious                                    | nutritif           |
 
 ## Analysis table 
 
