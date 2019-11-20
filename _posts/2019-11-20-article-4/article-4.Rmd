@@ -1,0 +1,55 @@
+---
+title: "Article-4 : New method takes analysis of genetic libraries to next level"
+description: 
+author:
+  - name: Aurore Pouleur
+    url: {}
+date: 11-20-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## Source of the article
+ Uppsala University. (2019, November 18). New method takes analysis of genetic libraries to next level. phys.org. Retrieved November 20, 2019 from <https://phys.org/news/2019-11-method-analysis-genetic-libraries.html> 
+
+Word count: 647
+
+## Vocabulary 
+
+| Word   from the text | Synonym/definition in English                 | French translation |
+| -------------------- | --------------------------------------------- | ------------------ |
+|                      |                                               |                    |
+|                      |                                               |                    |
+|                      |                                               |                    |
+|                      |                                               |                    |
+|                      |                                               |                    |
+|                      |                                               |                    |
+|                      |                                               |                    |
+|                      |                                               |                    |
+|                      |                                               |                    |
+
+## Analysis table 
+
+|                                    |                                                                                                                                                                                                                                                                                         |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers?                       |                                                                                                                                                            |
+| Published in? when (if mentioned)? | November 18, 2019                                                                                                                                                                                                                                                                       |
+| General topic                      |                                                                                                                                                            |
+| Procedure/ what was examined       |                                                                                                                                                            |
+| Conclusions/   discovery           |                                                                                                                                                                                                                                                                                         |
+| Remaining   questions              |                                                                                                                                                            |
+
+
+
+
+
+
+
+
+
+
+
