@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/2019-11-20-article-4/",
-    "title": "Article-4 : New method takes analysis of genetic libraries to next level",
+    "title": "Article 4 : New method takes analysis of genetic libraries to next level",
     "description": {},
     "author": [
       {
@@ -10,9 +10,11 @@
       }
     ],
     "date": "2019-11-20",
-    "categories": [],
+    "categories": [
+      "DNA"
+    ],
     "preview": {},
-    "last_modified": "2019-11-20T23:04:48+01:00"
+    "last_modified": "2019-11-21T14:29:15+01:00"
   },
   {
     "path": "posts/2019-11-16-article-3/",
@@ -25,9 +27,11 @@
       }
     ],
     "date": "2019-11-16",
-    "categories": [],
-    "preview": "posts/2019-11-16-article-3/Mar1_2019_Getty_1128491841_CRISPR-CAS9_1400.jpg",
-    "last_modified": "2019-11-21T13:48:16+01:00"
+    "categories": [
+      "DNA"
+    ],
+    "preview": {},
+    "last_modified": "2019-11-21T14:29:40+01:00"
   },
   {
     "path": "posts/2019-11-11-article-2/",
@@ -40,9 +44,11 @@
       }
     ],
     "date": "2019-11-11",
-    "categories": [],
+    "categories": [
+      "DNA"
+    ],
     "preview": {},
-    "last_modified": "2019-11-16T20:02:41+01:00"
+    "last_modified": "2019-11-21T14:34:59+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -56,11 +62,10 @@
     ],
     "date": "2019-09-18",
     "categories": [
-      "DNA",
-      "track"
+      "DNA"
     ],
     "preview": {},
-    "last_modified": "2019-11-19T17:27:21+01:00"
+    "last_modified": "2019-11-21T14:26:45+01:00"
   },
   {
     "path": "posts/2019-11-16-my-english-activity/",
@@ -75,6 +80,6 @@
     "date": "2019-09-10",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-21T14:15:12+01:00"
+    "last_modified": "2019-11-21T14:15:13+01:00"
   }
 ]
