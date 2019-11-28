@@ -6,6 +6,7 @@ author:
   - name: Aurore Pouleur
     url: {}
 date: 09-10-2019
+preview: my-english-activity_files/english_conversation_class.jpg
 output:
   distill::distill_article:
     self_contained: false
