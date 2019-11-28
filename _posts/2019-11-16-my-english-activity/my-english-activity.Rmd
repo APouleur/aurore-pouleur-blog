@@ -69,4 +69,9 @@ knitr::opts_chunk$set(echo = FALSE)
 * I watched some episodes of "Breaking Bad" 
 * I checked the news
 
+## Week 10:
+* I watched Harry Potter 4: Harry Potter and the Goblet of Fire
+* I checked the news
+* I read articles for my porfolio
+
 

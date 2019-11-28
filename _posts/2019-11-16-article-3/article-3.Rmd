@@ -5,9 +5,7 @@ author:
   - name: Aurore Pouleur
     url: {}
 date: 11-16-2019
-categories:
-  - DNA
-preview: image/ Mar1_2019_Getty_1128491841_CRISPR-CAS9_1400.jpg
+preview: Mar1_2019_Getty_1128491841_CRISPR-CAS9_1400.jpg
 output:
   distill::distill_article:
     self_contained: false
