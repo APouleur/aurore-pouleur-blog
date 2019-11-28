@@ -12,7 +12,7 @@
     "date": "2019-11-20",
     "categories": [],
     "preview": "posts/2019-11-20-article-4/maxresdefault.jpg",
-    "last_modified": "2019-11-28T16:24:36+01:00"
+    "last_modified": "2019-11-28T16:24:37+01:00"
   },
   {
     "path": "posts/2019-11-16-article-3/",
@@ -71,7 +71,9 @@
     ],
     "date": "2019-09-10",
     "categories": [],
-    "preview": "posts/2019-11-16-my-english-activity/my-english-activity_files/english_conversation_class.jpg",
-    "last_modified": "2019-11-28T16:21:14+01:00"
+    "preview": "posts/2019-11-16-my-english-activity/learn-english-writing-grammar-online-1024x576.png",
+    "last_modified": "2019-11-28T16:37:41+01:00",
+    "preview_width": 1024,
+    "preview_height": 576
   }
 ]
