@@ -37,12 +37,12 @@ Word count: 647
 
 |                                    |                                                                                                                                                                                                                                                                                         |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Researchers?                       |                                                                                                                                                            |
-| Published in? when (if mentioned)? | November 18, 2019                                                                                                                                                                                                                                                                       |
-| General topic                      |                                                                                                                                                            |
-| Procedure/ what was examined       |                                                                                                                                                            |
-| Conclusions/   discovery           |                                                                                                                                                                                                                                                                                         |
-| Remaining   questions              |                                                                                                                                                            |
+| Researchers?                       | Johan Elf, Daniel Camsund, Jimmy Larsson                                                                             |
+| Published in? when (if mentioned)? | November 18, 2019                                                                                                                                                                                                                                |
+| General topic                      | DuMPLING, a new method for studying dynamic processes in large genetic libraries by combining advanced optical methods with genetic engineering                                                                                                                                                                          |
+| Procedure/ what was examined       | create a genetic library where the expression of various known cell cycle regulators and unknown genes are decreased, use the DuMPLING method to study how the cell cycle was affected by these modifications, replace the nutrient solution in the chip with a solution that fixes cells in their positions                                                                    |
+| Conclusions/   discovery           |DuMPLING method works, researchers can identify the known regulatory elements                                              |
+| Remaining   questions              | Maybe  thanks to this method scientists will get a complete description of the cell cycle control mechanism.             |
 
 
 
