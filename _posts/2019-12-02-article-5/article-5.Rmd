@@ -1,11 +1,12 @@
 ---
-title: "Article 5: "
+title: "Article 5: The genome and transcriptome of the parasitic plant Striga sequenced"
 description: 
 
 author:
   - name: Aurore Pouleur
     url: {}
-date: 12-02-2019
+date: 12-06-2019
+preview: Striga.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -16,35 +17,41 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Source of the article
- Uppsala University. (2019, November 18). New method takes analysis of genetic libraries to next level. phys.org. Retrieved November 20, 2019 from <https://phys.org/news/2019-11-method-analysis-genetic-libraries.html> 
-Word count: 
+ RIKEN. (2019, December 06). The genome and transcriptome of the parasitic plant Striga sequenced. phys.org. Retrieved December 06, 2019 from <https://phys.org/news/2019-12-genome-transcriptome-parasitic-striga-sequenced.html> 
+
+Word count: 432
 
 ## Vocabulary 
 
 | Word   from the text | Synonym/definition in English                 | French translation |
 | -------------------- | --------------------------------------------- | ------------------ |
-|                      |                                               |                    |
-|                      |                                               |                    |
-|                      |                                               |                    |
-|                      |                                               |                    |
-|                      |                                               |                    |
-|                      |                                               |                    |
-|                      |                                               |                    |
-|                      |                                               |                    |
-|                      |                                               |                    |
-|                      |                                               |                    |
+| insight              | perception                                    | aperçu             |
+| crop                 | farming yield                                 | récolte            |
+| tap                  | make use of                                   | puiser             |
+| deprive              | take away                                     | priver             |
+| removal              | taing out                                     |élimination         |
+| seed                 | germ                                          | graine             |
+| soil                 | dirt                                          | sol                |
+| invade               | conquer                                       | envahir            |
+| transcriptome        | the set of all RNA molecules in one cell or a population of cells   | transcriptome                   |
+| repurpose            | recycle                                       | recycler           |
+| shrunk               | decrease                                      | diminuer           |
+| seedling             | young plant                                   | plant              |
+| strigolactone        | group of chemical compounds produced by a plant's roots  | strigolactone                   |
+| acquire              | obtain                                        | acquérir           |
+| field                | land                                          | champ              |
 
 
 ## Analysis table 
 
 |                                    |                                                                                                                                                                                                                                                                                         |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Researchers?                       | Johan Elf, Daniel Camsund, Jimmy Larsson                                                                             |
-| Published in? when (if mentioned)? | November 18, 2019                                                                                                                                                                                                                                |
-| General topic                      |                                                                                                                      |
-| Procedure/ what was examined       |                                                                                                                      |
-| Conclusions/   discovery           |                                                                                                                      |
-| Remaining   questions              |                                                                                                                      |
+| Researchers?                       | Ken Shirasu                                                                                                          |
+| Published in? when (if mentioned)? | December 06, 2019                                                                                                                                                                                                                                |
+| General topic                      | genetic analysis of parasitic plant Striga enable to understand how parasitic plants work                            |
+| Procedure/ what was examined       | sequence the genome and the transcriptome of a Striga species, identify protein-coding genes, compare the Striga genome with other plant genomes                                                                                                                        |
+| Conclusions/   discovery           | Striga can acquire genetic material from its hosts                                                                   |
+| Remaining   questions              | how Striga is adapting to infect current cultivars or to avoid agrochemicals                                         |
 
 
 
