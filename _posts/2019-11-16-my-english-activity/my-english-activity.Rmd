@@ -79,3 +79,8 @@ knitr::opts_chunk$set(echo = FALSE)
 * I watched Harry Potter 5: Harry Potter and the Order of the Phoenix 
 * I checked the news
 * I watched some episods of Game of Thrones
+
+## Week 12:
+* I listened to English music 
+* I read some articles for my portfolio
+* I checked the news
