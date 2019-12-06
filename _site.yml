@@ -1,6 +1,7 @@
 name: "blog-template"
 title: "Aurore's Blog"
 output_dir: "docs"
+favicon: pngtree-dna-helix-icon-vector-illustration-png-image_1694696.png
 navbar:
   logo: pngtree-dna-helix-icon-vector-illustration-png-image_1694696.png
   right:
