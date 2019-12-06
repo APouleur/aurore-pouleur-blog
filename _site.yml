@@ -2,6 +2,7 @@ name: "blog-template"
 title: "Aurore's Blog"
 output_dir: "docs"
 navbar:
+  logo: pngtree-dna-helix-icon-vector-illustration-png-image_1694696.png
   right:
     - text: "Home"
       href: index.html
