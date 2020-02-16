@@ -1,0 +1,55 @@
+---
+title: "Article 6: Computer simulations visualize how DNA is recognized to convert cells into stem cells"
+description: 
+
+author:
+  - name: Aurore Pouleur
+    url: {}
+date: 02-16-2020
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source of the article
+ Vlad Cojocaru & the Max Planck Institute. (2020, February 14). Computer simulations visualize how DNA is recognized to convert cells into stem cells. phys.org. Retrieved February 16, 2020 from <https://phys.org/news/2020-02-simulations-visualize-dna-cells-stem.html> 
+
+Word count: 603
+
+## Vocabulary 
+
+| Word   from the text | Synonym/definition in English                 | French translation |
+| -------------------- | --------------------------------------------- | ------------------ |
+|                      |                                               |                    |
+|                      |                                               |                    |
+|                      |                                               |                    |
+|                      |                                               |                    |
+|                      |                                               |                    |
+
+
+## Analysis table 
+
+|                                    |                                                                                                                                                                                                                                                                                         |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers?                       | Hubrecht institute & Max Planck institute                                                                                                          |
+| Published in? when (if mentioned)? | February 14, 2020                                                                                                                                                                                                                                                                       |
+| General topic                      | Computer simulations visualize how DNA is recognized to convert cells into stem cells                                  |
+| Procedure/ what was examined       | model Oct4, validate the model by experiments                                                                          |
+| Conclusions/   discovery           | they have revealed how an essential protein helps to activate DNA during the conversion of regular adult human cell into stem cell                                                                                                                                                     |
+| Remaining   questions              | obtain one final model of Oct4, use this model to extend to other transcriptions models and see if those models help to solve deseases                                                                                                                                                |
+
+
+
+
+
+
+
+
+
+
+

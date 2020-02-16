@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-02-16-article-6/",
+    "title": "Article 6: Computer simulations visualize how DNA is recognized to convert cells into stem cells",
+    "description": {},
+    "author": [
+      {
+        "name": "Aurore Pouleur",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-16",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-02-16T21:07:54+01:00"
+  },
+  {
     "path": "posts/2019-12-02-article-5/",
     "title": "Article 5: The genome and transcriptome of the parasitic plant Striga sequenced",
     "description": {},
@@ -87,7 +102,7 @@
     "date": "2019-09-10",
     "categories": [],
     "preview": "posts/2019-11-16-my-english-activity/learn-english-writing-grammar-online-1024x576.png",
-    "last_modified": "2019-12-06T19:14:48+01:00",
+    "last_modified": "2019-12-06T19:14:49+01:00",
     "preview_width": 1024,
     "preview_height": 576
   }
