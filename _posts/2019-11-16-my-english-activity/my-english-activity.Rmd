@@ -84,3 +84,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * I listened to English music 
 * I read some articles for my portfolio
 * I checked the news
+
+
+
+
