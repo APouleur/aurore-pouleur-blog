@@ -45,13 +45,13 @@ Word count: 432
 ## Analysis table 
 
 |                                    |                                                                                                                                                                                                                                                                                         |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Researchers?                       | Ken Shirasu                                                                                                          |
-| Published in? when (if mentioned)? | December 06, 2019                                                                                                                                                                                                                                |
-| General topic                      | genetic analysis of parasitic plant Striga enable to understand how parasitic plants work                            |
-| Procedure/ what was examined       | sequence the genome and the transcriptome of a Striga species, identify protein-coding genes, compare the Striga genome with other plant genomes                                                                                                                        |
-| Conclusions/   discovery           | Striga can acquire genetic material from its hosts                                                                   |
-| Remaining   questions              | how Striga is adapting to infect current cultivars or to avoid agrochemicals                                         |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Researchers?                       | Ken Shirasu                                                                                                            |
+| Published in? when (if mentioned)? | December 06, 2019                                                                                                                                                                                                                                                                       |
+| General topic                      | genetic analysis of parasitic plant Striga enable to understand how parasitic plants work                              |
+| Procedure/ what was examined       | sequence the genome and the transcriptome of a Striga species, identify protein-coding genes, compare the Striga genome with other plant genomes                                                                                                                                      |
+| Conclusions/   discovery           | Striga can acquire genetic material from its hosts                                                                     |
+| Remaining   questions              | how Striga is adapting to infect current cultivars or to avoid agrochemicals                                           |
 
 
 

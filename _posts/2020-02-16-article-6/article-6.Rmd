@@ -25,11 +25,13 @@ Word count: 603
 
 | Word   from the text | Synonym/definition in English                 | French translation |
 | -------------------- | --------------------------------------------- | ------------------ |
-|                      |                                               |                    |
-|                      |                                               |                    |
-|                      |                                               |                    |
-|                      |                                               |                    |
-|                      |                                               |                    |
+| stem cell            | cells that can differentiate into other types of cells           | cellule souche     |
+| to award             | give  a prize                                 | decerner           |
+| pioneer              | innovator                                     | pionnier           |
+| to reset             | set again                                     | remettre à zéro    |
+| to bind              | to tie                                        | attacher           |
+| to aim               | choose a target                               | viser              |
+| to engeneer          | design                                        | concevoir          |
 
 
 ## Analysis table 
