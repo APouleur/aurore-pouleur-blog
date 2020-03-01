@@ -1,0 +1,63 @@
+---
+title: "Article 7: DNA discovery can lead to new types of cancer drugs"
+description: 
+
+author:
+  - name: Aurore Pouleur
+    url: {}
+date: 03-01-2020
+preview: 10-dna (1).jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source of the article
+ University of Copenhagen. (2020, February 28). DNA discovery can lead to new types of cancer drugs. phys.org. Retrieved March 01, 2020 from <https://www.google.be/search?q=translate&oq=translate&aqs=chrome..69i57j0l5.3066j0j8&client=ubuntu&sourceid=chrome&ie=UTF-8> 
+
+Word count: 627
+
+## Vocabulary 
+
+| Word   from the text | Synonym/definition in English                 | French translation |
+| -------------------- | --------------------------------------------- | ------------------ |
+| insights             | instance of understanding                     | perpective         |
+| visionaries          | person who shows foresight                    | visionnaire        |
+| to aim               | choose a target                               | viser              |
+| in-built             | intrinsic                                     | intrinsèque        |
+| strand               | thread                                        | brin               |
+| lengthwise           | along the length                              | dans le sens de la longueur|
+| Nevertheless         | however                                       | néamoins           |
+| loosely              | Not tightly                                   | lachement          |
+| sufficient           | enough                                        | suffisant          |
+| To shatter           | break in pieces                               | se briser          |
+| to deplete           | use up                                        | épuiser            |
+| pace                 | rate                                          | rythme             |
+
+
+## Analysis table 
+
+|                                    |                                                                                                                                                                                                                                                                                         |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers?                       | Luis Toledo, Amaia Ercilla                                                                                                          |
+| Published in? when (if mentioned)? | February 28, 2020                                                                                                                                                                                                                                                                       |
+| General topic                      |                                   |
+| Procedure/ what was examined       |                                                                                                                         |
+| Conclusions/   discovery           |                                                                                                                         |
+| Remaining   questions              |                                                                                                                         |
+
+
+
+
+
+
+
+
+
+
+
