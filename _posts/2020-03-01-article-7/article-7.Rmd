@@ -46,10 +46,10 @@ Word count: 627
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Researchers?                       | Luis Toledo, Amaia Ercilla                                                                                                          |
 | Published in? when (if mentioned)? | February 28, 2020                                                                                                                                                                                                                                                                       |
-| General topic                      |                                   |
-| Procedure/ what was examined       |                                                                                                                         |
-| Conclusions/   discovery           |                                                                                                                         |
-| Remaining   questions              |                                                                                                                         |
+| General topic                      | cells can survive and multiply under more stress than before                                                            |
+| Procedure/ what was examined       | inhibiting the essential gene DNA polymerase alpha or POLA1                                                             |
+| Conclusions/   discovery           | this discovery may be used for a new type of cancer treatment                                                           |
+| Remaining   questions              |  how to find more molecules that biologically inhibits the POLA1 gene and which, in combination with other substances, may be used in the treatment of cancer                                                                                                                        |
 
 
 
