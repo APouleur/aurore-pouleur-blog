@@ -28,15 +28,15 @@ Word count: 627
 | -------------------- | --------------------------------------------- | ------------------ |
 | insights             | instance of understanding                     | perpective         |
 | visionaries          | person who shows foresight                    | visionnaire        |
-| to aim               | choose a target                               | viser              |
+| to aim               | to choose a target                            | viser              |
 | in-built             | intrinsic                                     | intrinsèque        |
 | strand               | thread                                        | brin               |
 | lengthwise           | along the length                              | dans le sens de la longueur|
-| Nevertheless         | however                                       | néamoins           |
-| loosely              | Not tightly                                   | lachement          |
+| nevertheless         | however                                       | néamoins           |
+| loosely              | not tightly                                   | lachement          |
 | sufficient           | enough                                        | suffisant          |
-| To shatter           | break in pieces                               | se briser          |
-| to deplete           | use up                                        | épuiser            |
+| to shatter           | to break in pieces                            | se briser          |
+| to deplete           | to use up                                     | épuiser            |
 | pace                 | rate                                          | rythme             |
 
 
