@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Source of the article
- University of Copenhagen. (2020, February 28). DNA discovery can lead to new types of cancer drugs. phys.org. Retrieved March 01, 2020 from <https://www.google.be/search?q=translate&oq=translate&aqs=chrome..69i57j0l5.3066j0j8&client=ubuntu&sourceid=chrome&ie=UTF-8> 
+ University of Copenhagen. (2020, February 28). DNA discovery can lead to new types of cancer drugs. phys.org. Retrieved March 01, 2020 from <https://phys.org/news/2020-02-dna-discovery-cancer-drugs.html> 
 
 Word count: 627
 
